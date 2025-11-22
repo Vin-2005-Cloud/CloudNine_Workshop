@@ -2,21 +2,21 @@
 
 const projects = [
   {
-    title: "Project One",
-    description: "A beautiful website built with HTML, CSS, and JavaScript",
+    title: "Profile UI Card Design",
+    description: "A beautiful profile card ui design website built with HTML, CSS, and JavaScript",
     tags: ["HTML", "CSS", "JavaScript"],
     link: "#",
   },
   {
-    title: "Project Two",
-    description: "An interactive web app with Tailwind CSS styling",
-    tags: ["JavaScript", "Tailwind", "Web App"],
+    title: "Calculator",
+    description: "An simple design and functionable calculator",
+    tags: ["HTML", "JavaScript", "CSS"],
     link: "#",
   },
   {
-    title: "Project Three",
+    title: "Heart Trail Animation",
     description: "A responsive portfolio website for a client",
-    tags: ["HTML", "CSS", "Responsive"],
+    tags: ["HTML", "CSS", "Responsive", "JavaScript"],
     link: "#",
     },
 
